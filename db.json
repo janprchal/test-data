@@ -65,6 +65,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Brody Kill"
+    },
+    {
+      "id": 1004,
+      "category": "Picovina",
+      "title": "Polibit mi prdel vole",
+      "description": "Pomozte vsem polibit Honzovi prdel vole.",
+      "location": "Highway 50",
+      "date": "July 22, 2022",
+      "time": "11:00",
+      "petsAllowed": false,
+      "organizer": "Brody Kill"
     }
   ]
 }
